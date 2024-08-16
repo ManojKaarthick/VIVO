@@ -4,6 +4,8 @@ public class Class {
 	
 	public void method1() {
 		
+		System.out.println("hhjkkkkkllkl,k");
+		
 	}
 
 }
